@@ -843,11 +843,11 @@ amdozjy23iquzlcpjvctd3usceggvkih._domainkey.staging.hcb: # HCB Staging SES DKIM
   ttl: 300
   type: CNAME
   value: amdozjy23iquzlcpjvctd3usceggvkih.dkim.amazonses.com.
-amiigo:
+amiigo: # nathan@hackclub.com
 - ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
-amigo:
+amigo: # nathan@hackclub.com
 - ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
