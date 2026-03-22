@@ -851,6 +851,10 @@ amigo: # nathan@hackclub.com
 - ttl: 300
   type: CNAME
   value: a.selfhosted.hackclub.com.
+'*.amiigo-testpilots': # nathan@hackclub.com
+ - ttl: 300
+   type: CNAME
+   value: b.selfhosted.hackclub.com.
 amity:
 - ttl: 300
   type: CNAME
