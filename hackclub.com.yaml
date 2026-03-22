@@ -3532,6 +3532,10 @@ lonestar:
 - ttl: 300
   type: CNAME
   value: cname.vercel-dns.com.
+lookout: # samliu@hackclub.com
+- ttl: 300
+  type: CNAME
+  value: b.selfhosted.hackclub.com.
 low-skies:
 - ttl: 300
   type: CNAME

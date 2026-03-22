@@ -322,6 +322,11 @@ diafano: # cfanoulis/diafano-hackclub
   ttl: 600
   type: A
   value: 76.76.21.21
+
+discrete: # firestxrmx@gmail.com U091J3R7GAC
+  ttl: 600
+  type: CNAME
+  value: firestorm108.github.io.
   
 doruk: 
   ttl: 600 
@@ -495,6 +500,11 @@ javier: # by https://github.com/J-cordz - my personal hack club scrapbook
    ttl: 600
    type: CNAME
    value: cname.vercel-dns.com.
+
+jugaad: # aryan17550@gmail.com
+  - ttl: 600
+    type: CNAME
+    value: aryan-git-byte.github.io.
    
 jzaleta: # Javi's twitter redirect
    ttl: 600
@@ -972,6 +982,11 @@ strategize: # rez@proton.me U082KMLM7DW YSWS for 2026 internship submisions
   - 185.199.109.153
   - 185.199.110.153
   - 185.199.111.153
+
+sunshine: # kacper@hackclub.com
+- ttl: 600
+  type: A
+  value: 216.198.79.1
   
 suryaansh:
 - ttl: 600
